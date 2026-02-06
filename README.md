@@ -1,4 +1,5 @@
-## Hi there 👋
+## gr 10 comtech
+
 
 <!--
 **Lucassss23412/Lucassss23412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
