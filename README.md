@@ -1,8 +1,7 @@
 ## gr 10 comtech
 
 
-<!--
-*<img width="2100" height="1500" alt="sticker" src="https://github.com/user-attachments/assets/c0220e46-addf-4094-8a44-d92644eb9e8a" />
+
 *Lucassss23412/Lucassss23412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
